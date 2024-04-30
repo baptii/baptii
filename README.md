@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hello! 👋
 
-<!--
-**baptii/baptii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bapti** here, a dedicated Computer Science major student at BRAC University, Bangladesh 🎓. 
 
-Here are some ideas to get you started:
+I'm all about diving deep into the fascinating realms of **Software Engineering**, **Cybersecurity**, **Machine Learning and AI** 🚀. When I'm not busy writing code, you'll find me exploring the wonderful world of **macOS** and **GNU/Linux** 💻. As a tech aficionado, I'm constantly seeking new knowledge and skills to stay at the forefront of technology. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+And did I mention my hobby? I love tinkering with **Raspberry Pi**. ✨
+
+ - 👨🏻‍💻 I'm currently working on rpi-marv
+ - 📚 I'm currently learning Machine Learning and AI
+ - 🤝 I'm looking to collaborate on Raspbperry Pi projects
+ - 💬 Ask me about GNU/Linux, macOS
+ - 👾 All of my projects are available at [my GitHub](https://github.com/baptii)
+ - 📫 Reach me at talha.sayed.bapti@g.bracu.ac.bd
+ - ⚡️ Fun fact... umm... idk. 
